@@ -5,5 +5,7 @@ export default {
 };
 
 export const Button = () => (
-  <StyledButton variant="contained" color="secondary">Botón de MUI!</StyledButton>
+  <StyledButton variant="contained" color="secondary">
+    Botón de MUI!
+  </StyledButton>
 );

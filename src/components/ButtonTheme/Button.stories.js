@@ -4,6 +4,10 @@ export default {
   title: 'Átomos/Button'
 };
 
-export const ButtonTheme = () => (
-  <StyledButtonTheme variant="contained" color="secondary">Botón de MUI!</StyledButtonTheme>
-);
+export function ButtonTheme() {
+  return (
+    <StyledButtonTheme variant="contained" color="secondary">
+      Botón de MUI!
+    </StyledButtonTheme>
+  );
+}
