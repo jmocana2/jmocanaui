@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 import Button from '@material-ui/core/Button';
-import { theme } from '../../theme';
+import { theme } from '../../../theme/index';
 
 const StyledButtonTheme = styled(Button)`
   font-size: 1em;
