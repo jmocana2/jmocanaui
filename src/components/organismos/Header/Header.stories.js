@@ -1,7 +1,7 @@
 import Header from './view';
 
 export default {
-  title: 'Organismo/Header'
+  title: 'Organismos/Header'
 };
 
 export const Default = () => <Header />;

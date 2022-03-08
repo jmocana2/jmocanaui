@@ -1,7 +1,7 @@
 import Footer from './view';
 
 export default {
-  title: 'Organismo/Footer'
+  title: 'Organismos/Footer'
 };
 
 export const FooterDefault = () => <Footer />;
