@@ -1,7 +1,7 @@
 import Layout from './view';
 
 export default {
-  title: 'Organismo/Layout'
+  title: 'Organismos/Layout'
 };
 
 export const LayoutDefault = () => <Layout />;

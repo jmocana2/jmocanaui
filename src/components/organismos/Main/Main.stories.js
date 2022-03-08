@@ -1,7 +1,7 @@
 import Main from './view';
 
 export default {
-  title: 'Organismo/Main'
+  title: 'Organismos/Main'
 };
 
 export const MainDefault = () => <Main />;
